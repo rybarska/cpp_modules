@@ -29,4 +29,5 @@ Each exercise comes with its own Makefile.
 Simply run the following commands in each exercise directory:
 
 make
+
 ./prog
