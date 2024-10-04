@@ -1,4 +1,5 @@
 OVERVIEW
+
 This repository contains solutions to the C++ modules 00 to 03 from the 42 school curriculum.
 These modules are designed to teach and reinforce fundamental C++ concepts,
 from basic syntax to more advanced topics like object-oriented programming,
@@ -24,6 +25,7 @@ method overriding, scope resolution, constructor chaining
 
 
 USAGE
+
 Each exercise comes with its own Makefile. Simply run the following commands in each exercise directory:
 
 make
