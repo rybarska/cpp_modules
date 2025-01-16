@@ -1,26 +1,86 @@
-OVERVIEW
+Overview
 
-This repository contains solutions to the C++ modules 00 to 03 from the 42 school curriculum.
-These modules are designed to teach and reinforce the fundamentals of object-oriented programming,
-class design, and inheritance. Each module focuses on specific language features, progressively
-increasing in complexity.
+This repository contains solutions to the C++ Modules 00 through 05 from the 42 school curriculum. These modules are designed to teach and reinforce the fundamentals of object-oriented programming, class design, inheritance, and other advanced C++ concepts. Each module builds upon the knowledge gained in previous ones, progressively increasing in complexity and depth.
 
-
-MODULE DESCRIPTION
+Module Descriptions
 
 C++ Module 00
-Namespaces, classes, member functions, stdio streams, initialization lists,
-static, const, and some other basics
+
+Topics Covered:
+
+Namespaces
+
+Classes
+
+Member functions
+
+Stdio streams
+
+Initialization lists
+
+Static and const members
+
+Basic syntax and foundational concepts
 
 C++ Module 01
-Memory allocation, pointers to members, references, switch statement
+
+Topics Covered:
+
+Memory allocation
+
+Pointers to members
+
+References
+
+Switch statements
 
 C++ Module 02
-Ad-hoc polymorphism, operator overloading, and Orthodox Canonical class form
+
+Topics Covered:
+
+Ad-hoc polymorphism
+
+Operator overloading
+
+Orthodox Canonical Class Form
 
 C++ Module 03
-Multiple inheritance (the diamond-shaped inheritance pattern), polymorphism,
-method overriding, scope resolution, constructor chaining
+
+Topics Covered:
+
+Multiple inheritance (including diamond-shaped inheritance pattern)
+
+Polymorphism
+
+Method overriding
+
+Scope resolution
+
+Constructor chaining
+
+C++ Module 04
+
+Topics Covered:
+
+Subtype polymorphism
+
+Abstract classes
+
+Interfaces
+
+Understanding the difference between concrete and abstract types
+
+C++ Module 05
+
+Topics Covered:
+
+Exceptions
+
+Exception handling mechanisms (try, catch, throw)
+
+Nested try-catch blocks
+
+Proper use of exceptions in robust programs
 
 
 USAGE
