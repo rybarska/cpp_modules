@@ -9,7 +9,6 @@ Module Descriptions
 C++ Module 00
 
 Topics Covered:
-Namespaces,
 Classes,
 Member functions,
 Stdio streams,
@@ -24,14 +23,14 @@ Topics Covered:
 Memory allocation,
 Pointers to members,
 References,
-Switch statements,
+Switch statements
 
 C++ Module 02
 
 Topics Covered:
 Ad-hoc polymorphism,
 Operator overloading,
-Orthodox Canonical Class Form,
+Orthodox Canonical Class Form
 
 C++ Module 03
 
