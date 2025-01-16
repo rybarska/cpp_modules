@@ -9,19 +9,12 @@ Module Descriptions
 C++ Module 00
 
 Topics Covered:
-
 Namespaces
-
 Classes
-
 Member functions
-
 Stdio streams
-
 Initialization lists
-
 Static and const members
-
 Basic syntax and foundational concepts
 
 
