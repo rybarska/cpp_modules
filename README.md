@@ -1,6 +1,6 @@
 # Overview
 
-This repository contains solutions to the C++ Modules 00 through 06 from the 42 school curriculum. These modules are designed to teach and reinforce the fundamentals of object-oriented programming, class design, inheritance, and other advanced C++ concepts. Each module builds upon the knowledge gained in previous ones, progressively increasing in complexity and depth.
+This repository contains solutions to the C++ Modules 00 through 07 from the 42 school curriculum. These modules are designed to teach and reinforce the fundamentals of object-oriented programming, class design, inheritance, and other advanced C++ concepts. Each module builds upon the knowledge gained in previous ones, progressively increasing in complexity and depth.
 
 ## Module Descriptions
 
@@ -31,6 +31,11 @@ Exceptions, Exception handling mechanisms (try, catch, throw), Nested try-catch 
 ### C++ Module 06
 **Topics Covered:**  
 C++ casts (`static_cast`, `dynamic_cast`, `const_cast`, `reinterpret_cast`), Safe type conversions, Runtime type identification (RTTI), Proper use of type casting in modern C++
+
+### C++ Module 07
+**Topics Covered:**
+
+Templates, Function templates and class templates, Template specialization, Iterators, Algorithms from the C++ Standard Template Library (STL)
 
 ## USAGE
 
