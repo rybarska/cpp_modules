@@ -40,40 +40,40 @@ Containers, Iterators, Algorithms from the C++ Standard Template Library (STL)
 
 C++ Module 09
 Topics Covered:
-Advanced use of STL containers and algorithms through real-world inspired projects:
+Advanced use of STL containers and algorithms through real-world inspired projects
+
+Usage
+Each exercise comes with its own Makefile. Simply run the following commands in each exercise directory:
+
+```bash
+make
+./prog
+```
+
+=============================
 
 Exercise 00 - BitcoinExchange
 Read and validate historical financial data using containers and date parsing.
 Usage:
 
-bash
-Copy
-Edit
+```bash
 make
 ./btc input.csv
+```
 Exercise 01 - Reverse Polish Notation
 Stack-based arithmetic parser for postfix expressions.
 Usage:
 
-bash
-Copy
-Edit
+```bash
 make
 ./RPN <num> <num> <operator> [... more nums and operators]
+```
+
 Exercise 02 - PmergeMe
 Implementation of the Ford-Johnson merge-insert sort algorithm using multiple STL containers and performance measurement.
 Usage:
 
-bash
-Copy
-Edit
+```bash
 make
 ./PmergeMe "<num> <num> <num> ..."
-Usage
-Each exercise comes with its own Makefile. Simply run the following commands in each exercise directory:
-
-bash
-Copy
-Edit
-make
-./prog
+``` 
