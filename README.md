@@ -52,16 +52,18 @@ make
 
 =============================
 
-Exercise 00 - BitcoinExchange
+Exercise 00 - BitcoinExchange:
 Read and validate historical financial data using containers and date parsing.
+
 Usage:
 
 ```bash
 make
 ./btc input.csv
 ```
-Exercise 01 - Reverse Polish Notation
+Exercise 01 - Reverse Polish Notation:
 Stack-based arithmetic parser for postfix expressions.
+
 Usage:
 
 ```bash
@@ -69,8 +71,9 @@ make
 ./RPN <num> <num> <operator> [... more nums and operators]
 ```
 
-Exercise 02 - PmergeMe
+Exercise 02 - PmergeMe:
 Implementation of the Ford-Johnson merge-insert sort algorithm using multiple STL containers and performance measurement.
+
 Usage:
 
 ```bash
