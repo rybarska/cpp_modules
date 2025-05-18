@@ -49,3 +49,27 @@ Each exercise comes with its own Makefile. Simply run the following commands in 
 ```bash
 make
 ./prog
+
+=============================
+### C++ Module 09
+Topics Covered:
+Advanced use of STL containers and algorithms through real-world inspired projects:
+
+Exercise 00 - BitcoinExchange: Read and validate historical financial data using containers and date parsing.
+
+```bash
+make
+./prog input.csv
+
+Exercise 01 - Reverse Polish Notation: Stack-based arithmetic parser for postfix expressions.
+
+```bash
+make
+./RPN <num> <num> <operator> [... more nums and operators]
+
+Exercise 02 - PmergeMe: Implementation of the Ford-Johnson merge-insert sort algorithm using multiple STL containers and performance measurement.
+
+```bash
+make
+./PmergeMe "<num> <num> <num> ..."
+
