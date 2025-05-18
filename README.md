@@ -38,10 +38,6 @@ C++ Module 08
 Topics Covered:
 Containers, Iterators, Algorithms from the C++ Standard Template Library (STL)
 
-C++ Module 09
-Topics Covered:
-Advanced use of STL containers and algorithms through real-world inspired projects
-
 Usage
 Each exercise comes with its own Makefile. Simply run the following commands in each exercise directory:
 
@@ -51,6 +47,9 @@ make
 ```
 
 =============================
+C++ Module 09
+Topics Covered:
+Advanced use of STL containers and algorithms through real-world inspired projects
 
 Exercise 00 - BitcoinExchange:
 Read and validate historical financial data using containers and date parsing.
